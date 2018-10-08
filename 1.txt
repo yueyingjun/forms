@@ -1,0 +1,3 @@
+移動端   https://yykzhangyadong.github.io/tianmaoyd/templates/index1.html
+
+PC端   https://yykzhangyadong.github.io/tianmaopc/templates/index.html
